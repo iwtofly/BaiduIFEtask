@@ -20,12 +20,14 @@ img{
 	background: #fff;
 	border: 1px solid #999;
 	padding: 20px;
-	position: absolute;
+/*	position: absolute;
 	top: 20px;
-	left: 20px;
+	left: 20px;*/
+	float: left;
 }
 .box1 h2{
 	float: right;
+	overflow: hidden;
 }
 
 .photo{
@@ -33,7 +35,6 @@ img{
 	width: 120px;
 	border: 1px solid #999;
 	float: right;
-
 }
 .photo img{
 	padding: 10px 20px;
@@ -43,11 +44,11 @@ img{
 	background: #fff;
 	border: 1px solid #999;
 	padding: 20px;
-	float: left;
 	margin-left:260px;
 	margin-right: 160px;
-	position: absolute;
-	top: 20px;
+	/*position: absolute;
+	top: 20px;*/
+
 }
 
 
